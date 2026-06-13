@@ -1,0 +1,17 @@
+# Datasets (download separately, see README)
+*.csv
+
+# Generated model files (regenerate locally with preprocessing scripts)
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
